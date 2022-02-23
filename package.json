@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/benwiley4000/gif-frames.git"
+    "url": "git+https://git@github.com/deltadevsde/gif-frames.git"
   },
   "keywords": [
     "gif",
@@ -37,7 +37,7 @@
   "dependencies": {
     "get-pixels-frame-info-update": "^3.3.2",
     "multi-integer-range": "^3.0.0",
-    "save-pixels": "git+https://github.com/deltadevsde/save-pixels.git#1aacc415",
+    "save-pixels": "https://github.com/deltadevsde/save-pixels.git#1aacc415"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
