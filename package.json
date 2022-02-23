@@ -37,7 +37,7 @@
   "dependencies": {
     "get-pixels-frame-info-update": "^3.3.2",
     "multi-integer-range": "^3.0.0",
-    "save-pixels": "https://github.com/deltadevsde/save-pixels.git#1aacc415"
+    "save-pixels": "https://github.com/deltadevsde/save-pixels.git#4e501bf"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
